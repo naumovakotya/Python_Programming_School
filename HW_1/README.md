@@ -2,6 +2,8 @@
 
 This repository contains solutions to the first homework assignment, which consists of three programming tasks written in Python. All tasks are located in the `HW_1` folder, with each task implemented in a separate file.
 
+**Note**: The common goal for all tasks was to avoid using built-in functions, libraries, or any external tools. The solutions were implemented solely with basic Python constructs.
+
 ## [Task 1: Largest Digit Finder](https://github.com/naumovakotya/Python_Programming_School/blob/main/HW_1/Task_01.py)
 The program prompts the user to input a natural number less than 1,000,000,000. If the input is valid (i.e., a number in the specified range), the program calculates and prints the largest digit of the entered number. If the input is invalid (either not a number or outside the range), the program displays an error message.
 
