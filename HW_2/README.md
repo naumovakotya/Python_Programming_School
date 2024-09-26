@@ -1,4 +1,4 @@
-# Python Homework 2
+# Python Homework №2
 
 This repository contains solutions to the second homework assignment, which consists of three programming tasks written in Python. All tasks are located in separate files.
 
