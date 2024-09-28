@@ -1,6 +1,6 @@
 # Python_Programming_School
 
-This repository contains a collection of Python programming tasks completed during my training at **Coherent Solutions**. Each project focuses on different aspects of programming and algorithm development. Below is a brief overview of each homework task, highlighting the skills demonstrated.
+This repository contains a collection of Python programming tasks completed during my training at **Coherent Solution**. Each project focuses on different aspects of programming and algorithm development. Below is a brief overview of each homework task, highlighting the skills demonstrated.
 
 **[Certificate of Completion from Python Programming Online School at Coherent solutions](https://github.com/naumovakotya/Python_Programming_School/blob/main/Naumova_Ekaterina_Coherent_solutions.pdf)**
 
