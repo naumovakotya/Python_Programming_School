@@ -56,6 +56,3 @@ In the final task, I developed an algorithm to find the most fuel-efficient rout
 
 ## Conclusion
 These projects reflect my ability to approach various types of problems, from basic programming logic to more advanced topics like algorithmic optimization and object-oriented design. Each task has helped me improve my programming skills and deepen my understanding of data science concepts. Feel free to explore each folder for more details about the specific tasks and solutions.
-
-## Conclusion
-These projects demonstrate my programming abilities, particularly in Python, and showcase my growth in problem-solving and algorithm development. Each task has allowed me to build stronger programming skills and apply them to diverse problem sets.
